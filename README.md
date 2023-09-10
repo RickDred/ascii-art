@@ -1,4 +1,4 @@
-# ascii-art-color
+# ascii-art
 
 ### Usage
 
